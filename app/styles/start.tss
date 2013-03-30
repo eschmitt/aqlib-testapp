@@ -1,0 +1,19 @@
+"Window": {
+  backgroundColor: 'white'
+},
+
+".container": {
+  layout: 'vertical',
+  width: Ti.UI.SIZE,
+  height: Ti.UI.SIZE,
+},
+
+"Button": {
+  width: Ti.UI.SIZE,
+  height: Ti.UI.SIZE,
+  color: 'black'
+},
+
+'#start': { 
+  top: '20dp' 
+}

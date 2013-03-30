@@ -1,0 +1,8 @@
+<Alloy>
+  <Window id="win">
+    <View class="container">
+      <Button id='start_in_tab'>start app in tabgroup</Button>
+      <Button id='start'>start app</Button>
+    </View>
+  </Window>
+</Alloy>

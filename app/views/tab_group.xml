@@ -1,0 +1,16 @@
+<Alloy>
+	<TabGroup id="tabs">
+    <Tab title="Manual" id="manual_tab">
+      <Require type="view" src="manual" id="manual_win" />
+    </Tab>
+    <Tab title="Reports" id="reports_tab">
+      <Window />
+    </Tab>
+    <Tab title="Consumers" id="consumers_tab">
+      <Window />
+    </Tab>
+    <Tab title="Messages" id="messages_tab">
+      <Window />
+    </Tab>
+	</TabGroup>
+</Alloy>
